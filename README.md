@@ -66,6 +66,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :![Taniksha2004's Stats](https://github-readme-stats.vercel.app/api?username=Taniksha2004&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ###
