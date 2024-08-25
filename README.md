@@ -33,7 +33,7 @@ I'm Taniksha currently pursuing a degree in Computer Engineering, driven by a pa
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://imgs.search.brave.com/5yBJlp7fMwh3gVHgH-FXMB2bzlZeHEXDRN3fgun7V_w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5kZXYudG8vY2Ru/LWNnaS9pbWFnZS93/aWR0aD04MDAsaGVp/Z2h0PSxmaXQ9c2Nh/bGUtZG93bixncmF2/aXR5PWF1dG8sZm9y/bWF0PWF1dG8vaHR0/cHM6Ly9kZXYtdG8t/dXBsb2Fkcy5zMy5h/bWF6b25hd3MuY29t/L3VwbG9hZHMvb3Jn/YW5pemF0aW9uL3By/b2ZpbGVfaW1hZ2Uv/MjU3NS8zZGEzN2Y2/NC1iNDZlLTRmYTUt/YmY4Ni0wMWI2M2Jh/NWY1N2IucG5n" align="center" style="width: 100%" />
 </div>  
 
 
