@@ -21,13 +21,13 @@ I'm Taniksha currently pursuing a degree in Computer Engineering, driven by a pa
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Projects  
+- 🔭 I’m currently working on Projects.  
   
 
-- 🌱 I’m currently learning new Programming languages and new  technical skills  
+- 🌱 I’m currently learning new Programming languages and new  technical skills.
   
 
-- ⚡ Fun fact: I'm a quick learner, i adapt new skill very fast.  
+- ⚡ Fun fact: I'm a quick learner, i adapt new skills very fast.  
 
 
 </td><td valign="top" width="50%">
