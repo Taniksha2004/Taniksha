@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tanikshamorankar60@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/taniksha-morankar-6b393128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/taniksha-morankar-6b393128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📄 Know about my profile [https://www.linkedin.com/in/taniksha-morankar-6b393128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/taniksha-morankar-6b393128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - ⚡ Fun fact **I'm a quick learner**
 
